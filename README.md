@@ -61,7 +61,7 @@ Once the app is running, clinic staff and doctors can use the following function
 ### Screenshots
 
 
-![Screenshot 1](link_to_screenshot_1.png)
+![Screenshot 1](images/patient_login.png)
 ![Screenshot 2](link_to_screenshot_2.png)
 ![Screenshot 3](link_to_screenshot_3.png)
 
