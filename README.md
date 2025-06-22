@@ -37,7 +37,7 @@ bash
 cd flutter_clinic_queue
 *   `flutter: sdk: flutter`
 *   (List other dependencies from `pubspec.yaml` here with versions)
-    > Example:
+    Example:
     *   `cupertino_icons: ^1.0.2`
     *   `intl: ^0.17.0`
 
