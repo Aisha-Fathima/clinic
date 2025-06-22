@@ -62,8 +62,9 @@ Once the app is running, clinic staff and doctors can use the following function
 
 
 ![Screenshot 1](images/patient_login.png)
-![Screenshot 2](link_to_screenshot_2.png)
-![Screenshot 3](link_to_screenshot_3.png)
+![Screenshot 2](images/queue_status.png)
+![Screenshot 3](images/emergency.png)
+![Screenshot 4](images/doc_dashboard.png)
 
 
 
