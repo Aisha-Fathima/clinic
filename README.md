@@ -57,10 +57,6 @@ Once the app is running, clinic staff and doctors can use the following function
 1.  **View Patient Details:** Doctors can select a patient from the queue to view detailed information.
 2.  **Mark Patient as 'In Consultation':** Indicate when a patient is currently being seen by the doctor.
 3.  **Mark Patient as 'Consultation Finished':**  Indicate when a patient's consultation is complete, removing them from the active queue.
-> Describe how doctor authentication/login will work here, and how the UI differentiates the doctor's view.  For example:
-> *   Doctors log in with their employee ID and a password.
-> *   After login, doctors see an additional set of options related to patient management during consultation.
-> *  A separate screen/tab is available for doctor-specific functions.
 
 ### Screenshots
 
